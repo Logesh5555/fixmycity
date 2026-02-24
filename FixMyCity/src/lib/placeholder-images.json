@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "landing-hero",
+      "description": "A vibrant cityscape with clean streets and modern architecture, symbolizing a well-managed urban environment.",
+      "imageUrl": "https://images.unsplash.com/photo-1498084393753-b411b2d26b34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzbWFydCUyMGNpdHl8ZW58MHx8fHwxNzcxOTI4MTk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smart city"
+    },
+    {
+      "id": "pothole-1",
+      "description": "A large pothole on a residential street, posing a hazard to vehicles.",
+      "imageUrl": "https://images.unsplash.com/photo-1675430427954-2a1c9c8e4a06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwb3Rob2xlJTIwcm9hZHxlbnwwfHx8fDE3NzE5MjgxMjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pothole road"
+    },
+    {
+      "id": "streetlight-1",
+      "description": "A flickering street light at an intersection at dusk.",
+      "imageUrl": "https://images.unsplash.com/photo-1520099915051-e4cb8ab04de9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzdHJlZXQlMjBsaWdodHxlbnwwfHx8fDE3NzE5MjgxOTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "street light"
+    },
+    {
+      "id": "waste-1",
+      "description": "An overflowing public trash can on a busy sidewalk.",
+      "imageUrl": "https://images.unsplash.com/photo-1763401929411-3c748203751a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxvdmVyZmxvd2luZyUyMHRyYXNofGVufDB8fHx8MTc3MTg1NjAzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "overflowing trash"
+    },
+    {
+      "id": "drainage-1",
+      "description": "A clogged storm drain causing a large puddle on the road after rain.",
+      "imageUrl": "https://images.unsplash.com/photo-1659868615026-3af0b8de5904?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2xvZ2dlZCUyMGRyYWlufGVufDB8fHx8MTc3MTkyODE5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "clogged drain"
+    },
+    {
+      "id": "road-damage-1",
+      "description": "Cracked and crumbling asphalt on a main road.",
+      "imageUrl": "https://images.unsplash.com/photo-1617252820855-a829ba1babe7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGFtYWdlZCUyMHJvYWR8ZW58MHx8fHwxNzcxOTI4MTk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "damaged road"
+    },
+    {
+      "id": "user-avatar-1",
+      "description": "Avatar for Jane Doe.",
+      "imageUrl": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NzE4OTQ5MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "user-avatar-2",
+      "description": "Avatar for John Smith.",
+      "imageUrl": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NzE4OTQ5MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "user-avatar-3",
+      "description": "Avatar for Admin user.",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NzE4OTQ5MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    }
+  ]
+}
